@@ -1,0 +1,16 @@
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\bin\Debug\net8.0-windows\tpmodul3_1302223050.exe
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\bin\Debug\net8.0-windows\tpmodul3_1302223050.deps.json
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\bin\Debug\net8.0-windows\tpmodul3_1302223050.runtimeconfig.json
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\bin\Debug\net8.0-windows\tpmodul3_1302223050.dll
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\bin\Debug\net8.0-windows\tpmodul3_1302223050.pdb
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\obj\Debug\net8.0-windows\tpmodul3_1302223050.Form1.resources
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\obj\Debug\net8.0-windows\tpmodul3_1302223050.csproj.GenerateResource.cache
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\obj\Debug\net8.0-windows\tpmodul3_1302223050.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\obj\Debug\net8.0-windows\tpmodul3_1302223050.AssemblyInfoInputs.cache
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\obj\Debug\net8.0-windows\tpmodul3_1302223050.AssemblyInfo.cs
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\obj\Debug\net8.0-windows\tpmodul3_1302223050.csproj.CoreCompileInputs.cache
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\obj\Debug\net8.0-windows\tpmodul3_1302223050.dll
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\obj\Debug\net8.0-windows\refint\tpmodul3_1302223050.dll
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\obj\Debug\net8.0-windows\tpmodul3_1302223050.pdb
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\obj\Debug\net8.0-windows\tpmodul3_1302223050.genruntimeconfig.cache
+Y:\Github\KPL\Modul3\TP-Modul3\tpmodul3_1302223050\tpmodul3_1302223050\obj\Debug\net8.0-windows\ref\tpmodul3_1302223050.dll

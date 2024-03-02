@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Github\\KPL\\Modul3\\TP-Modul3\\tpmodul3_1302223050\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5206AB58-3E74-4D39-8E9E-795049CD4FEB}|tpmodul3_1302223050\\tpmodul3_1302223050.csproj|y:\\github\\kpl\\modul3\\tp-modul3\\tpmodul3_1302223050\\tpmodul3_1302223050\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5206AB58-3E74-4D39-8E9E-795049CD4FEB}|tpmodul3_1302223050\\tpmodul3_1302223050.csproj|solutionrelative:tpmodul3_1302223050\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5206AB58-3E74-4D39-8E9E-795049CD4FEB}|tpmodul3_1302223050\\tpmodul3_1302223050.csproj|y:\\github\\kpl\\modul3\\tp-modul3\\tpmodul3_1302223050\\tpmodul3_1302223050\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5206AB58-3E74-4D39-8E9E-795049CD4FEB}|tpmodul3_1302223050\\tpmodul3_1302223050.csproj|solutionrelative:tpmodul3_1302223050\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5206AB58-3E74-4D39-8E9E-795049CD4FEB}|tpmodul3_1302223050\\tpmodul3_1302223050.csproj|y:\\github\\kpl\\modul3\\tp-modul3\\tpmodul3_1302223050\\tpmodul3_1302223050\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5206AB58-3E74-4D39-8E9E-795049CD4FEB}|tpmodul3_1302223050\\tpmodul3_1302223050.csproj|solutionrelative:tpmodul3_1302223050\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "Y:\\Github\\KPL\\Modul3\\TP-Modul3\\tpmodul3_1302223050\\tpmodul3_1302223050\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "tpmodul3_1302223050\\Form1.Designer.cs",
+              "ToolTip": "Y:\\Github\\KPL\\Modul3\\TP-Modul3\\tpmodul3_1302223050\\tpmodul3_1302223050\\Form1.Designer.cs",
+              "RelativeToolTip": "tpmodul3_1302223050\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:37:44.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "Y:\\Github\\KPL\\Modul3\\TP-Modul3\\tpmodul3_1302223050\\tpmodul3_1302223050\\Form1.cs",
+              "RelativeDocumentMoniker": "tpmodul3_1302223050\\Form1.cs",
+              "ToolTip": "Y:\\Github\\KPL\\Modul3\\TP-Modul3\\tpmodul3_1302223050\\tpmodul3_1302223050\\Form1.cs",
+              "RelativeToolTip": "tpmodul3_1302223050\\Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:36:53.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "Y:\\Github\\KPL\\Modul3\\TP-Modul3\\tpmodul3_1302223050\\tpmodul3_1302223050\\Form1.cs",
+              "RelativeDocumentMoniker": "tpmodul3_1302223050\\Form1.cs",
+              "ToolTip": "Y:\\Github\\KPL\\Modul3\\TP-Modul3\\tpmodul3_1302223050\\tpmodul3_1302223050\\Form1.cs [Design]",
+              "RelativeToolTip": "tpmodul3_1302223050\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:32:00.969Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
